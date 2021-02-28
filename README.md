@@ -4,31 +4,31 @@ THIS REPOSITORY FOR STUDYING SQL
 ## 📚 Chapter
 ### 📔 1과목.
 ### 📔 2과목.
-**[제1장. SQL 기본]()**
-[제1절 관계형 데이터베이스 개요]()
-[제2절 SELECT 문]()
-[제3절 함수]()
-[제4절 WHERE 절]()
-[제5절 GROUP BY, HAVING 절]()
-[제6절 ORDER BY 절]()
-[제7절 조인]()
-[제8절 표준 조인]()
+* **[제1장. SQL 기본](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-1)**
+[제1절 관계형 데이터베이스 개요](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-1.md)  
+[제2절 SELECT 문](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-2.md)  
+[제3절 함수](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-3.md)  
+[제4절 WHERE 절](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-4.md)  
+[제5절 GROUP BY, HAVING 절](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-5.md)  
+[제6절 ORDER BY 절](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-6.md)  
+[제7절 조인](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-7.md)  
+[제8절 표준 조인](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-8.md)  
 
-**[제2장. SQL 활용]()**
-[제1절 서브 쿼리]()
-[제2절 집합 연산자]()
-[제3절 그룹함수]()
-[제4절 윈도우 함수]()
-[제5절 Top N 쿼리]()
-[제6절 계층형 질의와 셀프 조인]()
-[제7절 PIVOT절과 UNPIVOT 절]()
-[제8절 정규 표현식]()
+* **[제2장. SQL 활용](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-2)**
+[제1절 서브 쿼리](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-1.md)  
+[제2절 집합 연산자](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-2.md)  
+[제3절 그룹함수](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-3.md)  
+[제4절 윈도우 함수](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-4.md)  
+[제5절 Top N 쿼리](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-5.md)  
+[제6절 계층형 질의와 셀프 조인](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-6.md)  
+[제7절 PIVOT절과 UNPIVOT 절](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-7.md)  
+[제8절 정규 표현식](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-8.md)  
 
-**[제3장. 관리 구문]()**
-[제1절 DML]()
-[제2절 TCL]()
-[제3절 DDL]()
-[제4절 DCL]()
+* **[제3장. 관리 구문](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-3)**
+[제1절 DML](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-1.md)  
+[제2절 TCL](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-2.md)  
+[제3절 DDL](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-3.md)  
+[제4절 DCL](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-4.md)  
 
 ## 📑 Related Exam Questions
 

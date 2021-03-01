@@ -1,10 +1,11 @@
- # 🐰SQLD 
+ # 🐰SQLD🥕
 THIS REPOSITORY FOR STUDYING SQL
 
 ## 📚 Chapter
-### 📔 1과목.
-### 📔 2과목.
-* **[제1장. SQL 기본](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-1)**
+### 📔 1과목.  
+### 📔 2과목.  
+* **[제1장. SQL 기본](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-1)**  
+
 [제1절 관계형 데이터베이스 개요](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-1.md)  
 [제2절 SELECT 문](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-2.md)  
 [제3절 함수](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-3.md)  
@@ -14,7 +15,8 @@ THIS REPOSITORY FOR STUDYING SQL
 [제7절 조인](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-7.md)  
 [제8절 표준 조인](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-1/2-1-8.md)  
 
-* **[제2장. SQL 활용](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-2)**
+* **[제2장. SQL 활용](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-2)**  
+
 [제1절 서브 쿼리](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-1.md)  
 [제2절 집합 연산자](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-2.md)  
 [제3절 그룹함수](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-3.md)  
@@ -24,7 +26,8 @@ THIS REPOSITORY FOR STUDYING SQL
 [제7절 PIVOT절과 UNPIVOT 절](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-7.md)  
 [제8절 정규 표현식](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-8.md)  
 
-* **[제3장. 관리 구문](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-3)**
+* **[제3장. 관리 구문](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-3)**  
+
 [제1절 DML](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-1.md)  
 [제2절 TCL](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-2.md)  
 [제3절 DDL](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-3.md)  
@@ -32,5 +35,5 @@ THIS REPOSITORY FOR STUDYING SQL
 
 ## 📑 Related Exam Questions
 
-## References
+## References  
 [SQL 전문가 가이드(2020)](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788988474860&orderClick=JAj)

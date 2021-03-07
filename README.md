@@ -34,6 +34,7 @@ THIS REPOSITORY FOR STUDYING SQL
 [제4절 DCL](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-4.md)  
 
 ## 📑 Related Exam Questions
+[QUIZ_REVIEW](https://github.com/SSU-PaceMaker/SQLD/tree/master/QUIZ)
 
 ## References  
 [SQL 전문가 가이드(2020)](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788988474860&orderClick=JAj)

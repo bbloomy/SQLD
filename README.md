@@ -23,8 +23,8 @@ THIS REPOSITORY FOR STUDYING SQL
 [제4절 윈도우 함수](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-4.md)  
 [제5절 Top N 쿼리](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-5.md)  
 [제6절 계층형 질의와 셀프 조인](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-6.md)  
-[제7절 PIVOT절과 UNPIVOT 절](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-7.md)  
-[제8절 정규 표현식](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-8.md)  
+[제7절 PIVOT절과 UNPIVOT 절](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-6.md)  
+[제8절 정규 표현식](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-2/2-2-6.md)  
 
 * **[제3장. 관리 구문](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-3)**  
 

@@ -31,10 +31,9 @@ THIS REPOSITORY FOR STUDYING SQL
 [제1절 DML](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-1.md)  
 [제2절 TCL](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-2.md)  
 [제3절 DDL](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-3.md)  
-[제4절 DCL](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-4.md)  
-[제5절 옵티마이저](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-4.md)
-[제6절 인덱스] (https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-5.md)
-[제7절 조인](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-6.md)
+[제4절 옵티마이저](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-4.md)  
+[제5절 인덱스](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-5.md)  
+[제6절 조인](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-6.md)  
 
 ## 📑 Related Exam Questions
 [QUIZ_REVIEW](https://github.com/SSU-PaceMaker/SQLD/tree/master/QUIZ)

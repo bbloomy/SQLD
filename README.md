@@ -3,7 +3,8 @@ THIS REPOSITORY FOR STUDYING SQL
 
 ## 📚 Chapter
 ### 📔 1과목.  
-[분산데이터베이스의 특징](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/1-1%EC%9E%A5/1-1-3.md)
+[PL/SQL](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/1-1%EC%9E%A5/1-1-2.md)  
+[분산데이터베이스의 특징](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/1-1%EC%9E%A5/1-1-3.md)  
 
 ### 📔 2과목.  
 * **[제1장. SQL 기본](https://github.com/SSU-PaceMaker/SQLD/tree/master/Chapter/2-1)**  

@@ -39,7 +39,7 @@ THIS REPOSITORY FOR STUDYING SQL
 
 ## 📑 Related Exam Questions
 [QUIZ_REVIEW](https://github.com/SSU-PaceMaker/SQLD/tree/master/QUIZ)
-[기출문제]([QUIZ_REVIEW](https://github.com/SSU-PaceMaker/SQLD/tree/master/QUIZ/19-11-30.md)
+[기출문제](https://github.com/SSU-PaceMaker/SQLD/tree/master/QUIZ/19-11-30.md)
 
 ## References  
 [SQL 전문가 가이드(2020)](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788988474860&orderClick=JAj)

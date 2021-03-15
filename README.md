@@ -39,8 +39,12 @@ THIS REPOSITORY FOR STUDYING SQL
 [제6절 조인-소트,해시,nl](https://github.com/SSU-PaceMaker/SQLD/blob/master/Chapter/2-3/2-3-6.md)  
 
 ## 📑 Related Exam Questions
-[QUIZ_REVIEW](https://github.com/SSU-PaceMaker/SQLD/tree/master/QUIZ)
-[기출문제](https://github.com/SSU-PaceMaker/SQLD/tree/master/QUIZ/19-11-30.md)
+[QUIZ_REVIEW](https://github.com/SSU-PaceMaker/SQLD/tree/master/QUIZ)  
+[기출문제-35회](https://github.com/SSU-PaceMaker/SQLD/tree/master/QUIZ/19-11-30.md)    
+[기출문제-34회](https://github.com/SSU-PaceMaker/SQLD/blob/master/QUIZ/19-08-24.md)    
+[기출문제-33회](https://github.com/SSU-PaceMaker/SQLD/blob/master/QUIZ/19-06-08.md)   
+[기출문제-32회](https://github.com/SSU-PaceMaker/SQLD/blob/master/QUIZ/19-03-16.md)   
+[기출문제-31회](https://github.com/SSU-PaceMaker/SQLD/blob/master/QUIZ/18-12-01.md)   
 
 ## References  
 [SQL 전문가 가이드(2020)](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788988474860&orderClick=JAj)
